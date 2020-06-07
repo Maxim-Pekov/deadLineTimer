@@ -15,6 +15,6 @@ Hi, to embed this script to your pages you need:<br/>
    \</div><br/>
    <br/>
 2). Copy the function from the script.js file to yourself in the js file.<br/>
-3). Insert your expected timer end date in the function call. deadLineTimer ("2020-06-07"); 
+3). Insert your expected timer end date in the function call. deadLineTimer ("2020-06-07"); <div class="timer">
 
 

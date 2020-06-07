@@ -68,4 +68,4 @@ function deadLineTimer (deadLineDate){
    }
    setClock(".timer", deadline);
 }
-deadLineTimer("2020-06-07");
+deadLineTimer("2020-06-10");
